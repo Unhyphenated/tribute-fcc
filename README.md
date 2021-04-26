@@ -1,2 +1,2 @@
 # tribute-fcc
-A freecodecamp tribute page assignment.
+Create a tribute page using HTML and CSS.
